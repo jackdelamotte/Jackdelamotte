@@ -4,7 +4,7 @@ I'm a student at Cal Poly who's studying computer science. I'm on a mission to l
 
 Last year I had to privilege of developing a SaaS product for indie outdoor stores during my time at [The Parable Group](https://www.parablegroup.com/) and next year I get to start an exciting new journey at [New Relic](https://newrelic.com/)!
 
-Checkout my [site](http://jackdelamotte.com/) to learn more about me or read my one blog post!
+Check out my [site](http://jackdelamotte.com/) to learn more about me or read my one blog post!
 <!--
 **jackdelamotte/Jackdelamotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
