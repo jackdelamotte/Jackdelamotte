@@ -1,6 +1,6 @@
 ## Hi, I'm Jack 👨🏻‍🏫
 
-I'm a software engineer. I'm on a mission to learn how to create better, faster, and simpler software and how to have a great time doing it! Also figuring out how to incorporate more emojis into my pull requests 👾.
+I'm a software engineer at [Rebellion Defense](https://www.rebelliondefense.com). I'm on a mission to learn how to create better, faster, and simpler software and how to have a great time doing it! Also figuring out how to incorporate more emojis into my pull requests 👾.
 
 I've also had the privilege of developing alongside the talented folks at [The Parable Group](https://www.parablegroup.com/) and [New Relic](https://newrelic.com/) during my time as an intern.
 
