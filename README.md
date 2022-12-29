@@ -1,10 +1,10 @@
 ## Hi, I'm Jack 👨🏻‍🏫
 
-I'm a student at Cal Poly who's studying computer science. I'm on a mission to learn how to create better, faster, and simpler software and how it can make our digital future a better place. Also figuring out how to incorporate more emojis into my pull requests 👾.
+I'm a software engineer. I'm on a mission to learn how to create better, faster, and simpler software and how to have a great time doing it! Also figuring out how to incorporate more emojis into my pull requests 👾.
 
-Last year I had to privilege of developing a SaaS product for indie outdoor stores during my time at [The Parable Group](https://www.parablegroup.com/) and next year I get to start an exciting new journey at [New Relic](https://newrelic.com/)!
+I've also had the privilege of developing alongside the talented folks at [The Parable Group](https://www.parablegroup.com/) and [New Relic](https://newrelic.com/) during my time as an intern.
 
-Check out my [site](http://jackdelamotte.com/) to learn more about me or read my one blog post!
+Check out my [site](http://jackdelamotte.com/) to learn more about me or read one of my two blog posts!
 <!--
 **jackdelamotte/Jackdelamotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
