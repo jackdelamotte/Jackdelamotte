@@ -1,8 +1,8 @@
 ## Hi, I'm Jack 👨🏻‍🏫
 
-I'm a software engineer at [Rebellion Defense](https://www.rebelliondefense.com). I'm on a mission to learn how to create better, faster, and simpler software and how to have a great time doing it! Also figuring out how to incorporate more emojis into my pull requests 👾.
+I'm a software engineer at [Relativity Space](https://www.relativityspace.com) where I'm writing code to test and launch rockets.
 
-I've also had the privilege of developing alongside the talented folks at [The Parable Group](https://www.parablegroup.com/) and [New Relic](https://newrelic.com/) during my time as an intern.
+I've also had the privilege of building alongside the talented folks at [Rebellion Defense](https://www.rebelliondefense.com), [New Relic](https://newrelic.com/), and [The Parable Group](https://www.parablegroup.com/).
 
 Check out my [site](http://jackdelamotte.com/) to learn more about me or read one of my two blog posts!
 <!--
